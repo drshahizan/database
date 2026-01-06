@@ -23,9 +23,7 @@ Before attending the first lecture, make sure you've completed all the essential
 
 - 📅 **[Weekly Schedule](./materials/weekly.md)**: A week-by-week breakdown of course topics.
 
-- 📝 **[Assignment](project)**: View and download current assignments, submission guidelines, and deadlines.
-  
-- 💡 **[Lab Exercise]()**: Engage with exercises designed to complement your coursework and enhance learning.
+- 🚀 **[Project Submission](project)**: Submit all group project deliverables in the designated submission table.
 
 - ❓ **[Quiz]()**: Test your knowledge and track your progress through quizzes.
 
