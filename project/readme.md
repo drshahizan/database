@@ -38,12 +38,13 @@ Students perform logical database design, normalization, SQL implementation (DDL
 
 | No. | Group Name | Logbook | Phase 1 | Phase 2 | Phase 3 |
 |----:|------------|:-------:|:-------:|:-------:|:-------:|
-| 1 | QueryCrew | [:octocat:]( ) | <a href=""><img src="../images/pdf.svg" width="30px" height="30px"></a> | <a href=""><img src="../images/pdf.svg" width="30px" height="30px"></a> | <a href=""><img src="../images/pdf.svg" width="30px" height="30px"></a> |
-| 2 | DaTeam | [:octocat:]( ) | <a href=""><img src="../images/pdf.svg" width="30px" height="30px"></a> | <a href=""><img src="../images/pdf.svg" width="30px" height="30px"></a> | <a href=""><img src="../images/pdf.svg" width="30px" height="30px"></a> |
-| 5 | Fantastic_Four | [:octocat:]( ) | <a href=""><img src="../images/pdf.svg" width="30px" height="30px"></a> | <a href=""><img src="../images/pdf.svg" width="30px" height="30px"></a> | <a href=""><img src="../images/pdf.svg" width="30px" height="30px"></a> |
-| 6 | SQLmates | [:octocat:]( ) | <a href=""><img src="../images/pdf.svg" width="30px" height="30px"></a> | <a href=""><img src="../images/pdf.svg" width="30px" height="30px"></a> | <a href=""><img src="../images/pdf.svg" width="30px" height="30px"></a> |
-| 7 | 405 Found | [:octocat:]( ) | <a href=""><img src="../images/pdf.svg" width="30px" height="30px"></a> | <a href=""><img src="../images/pdf.svg" width="30px" height="30px"></a> | <a href=""><img src="../images/pdf.svg" width="30px" height="30px"></a> |
-| 8 | DataTree | [:octocat:]( ) | <a href=""><img src="../images/pdf.svg" width="30px" height="30px"></a> | <a href=""><img src="../images/pdf.svg" width="30px" height="30px"></a> | <a href=""><img src="../images/pdf.svg" width="30px" height="30px"></a> |
+| 1 | 404NotFound | [:octocat:]( ) | <a href=""><img src="../images/pdf.svg" width="30px" height="30px"></a> | <a href=""><img src="../images/pdf.svg" width="30px" height="30px"></a> | <a href=""><img src="../images/pdf.svg" width="30px" height="30px"></a> |
+| 2 | DataATE | [:octocat:]( ) | <a href=""><img src="../images/pdf.svg" width="30px" height="30px"></a> | <a href=""><img src="../images/pdf.svg" width="30px" height="30px"></a> | <a href=""><img src="../images/pdf.svg" width="30px" height="30px"></a> |
+| 3 | SpinTheWheel | [:octocat:]( ) | <a href=""><img src="../images/pdf.svg" width="30px" height="30px"></a> | <a href=""><img src="../images/pdf.svg" width="30px" height="30px"></a> | <a href=""><img src="../images/pdf.svg" width="30px" height="30px"></a> |
+| 4 | DaTeam | [:octocat:]( ) | <a href=""><img src="../images/pdf.svg" width="30px" height="30px"></a> | <a href=""><img src="../images/pdf.svg" width="30px" height="30px"></a> | <a href=""><img src="../images/pdf.svg" width="30px" height="30px"></a> |
+| 5 | QueryCrew | [:octocat:]( ) | <a href=""><img src="../images/pdf.svg" width="30px" height="30px"></a> | <a href=""><img src="../images/pdf.svg" width="30px" height="30px"></a> | <a href=""><img src="../images/pdf.svg" width="30px" height="30px"></a> |
+| 6 | Miracle | [:octocat:]( ) | <a href=""><img src="../images/pdf.svg" width="30px" height="30px"></a> | <a href=""><img src="../images/pdf.svg" width="30px" height="30px"></a> | <a href=""><img src="../images/pdf.svg" width="30px" height="30px"></a> |
+| 7 | Gimme5 | [:octocat:]( ) | <a href=""><img src="../images/pdf.svg" width="30px" height="30px"></a> | <a href=""><img src="../images/pdf.svg" width="30px" height="30px"></a> | <a href=""><img src="../images/pdf.svg" width="30px" height="30px"></a> |
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/database/issues) for any improvements, suggestions or errors in the content.
