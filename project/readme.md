@@ -11,7 +11,7 @@
 This database project is conducted in **three structured phases (P1–P3)**.  
 Each phase builds progressively to guide students from problem analysis to database design and implementation, following academic and industry-relevant practices.
 
-## 📄 **Project Guidelines:**  
+## 📄 Guidelines: 
 
 ### 🔹 [Phase 1 – Project Proposal](./Phase1_Project_Proposal_Guidelines.pdf)  
 
