@@ -34,6 +34,19 @@ Phase 3 covers **database refinement and implementation**.
 Students perform logical database design, normalization, SQL implementation (DDL and DML), and produce comprehensive documentation and reporting. A basic user interface or prototype may also be included.
 
 
+## Group
+
+| No. | Group Name | Logbook | Phase 1 | Phase 2 | Phase 3 |
+|----:|------------|:-------:|:-------:|:-------:|:-------:|
+| 1 | QueryCrew | [:octocat:]( ) | <a href=""><img src="../images/pdf.svg" width="30px" height="30px"></a> | <a href=""><img src="../images/pdf.svg" width="30px" height="30px"></a> | <a href=""><img src="../images/pdf.svg" width="30px" height="30px"></a> |
+| 2 | DaTeam | [:octocat:]( ) | <a href=""><img src="../images/pdf.svg" width="30px" height="30px"></a> | <a href=""><img src="../images/pdf.svg" width="30px" height="30px"></a> | <a href=""><img src="../images/pdf.svg" width="30px" height="30px"></a> |
+| 3 | 4bit Crew | [:octocat:]( ) | <a href=""><img src="../images/pdf.svg" width="30px" height="30px"></a> | <a href=""><img src="../images/pdf.svg" width="30px" height="30px"></a> | <a href=""><img src="../images/pdf.svg" width="30px" height="30px"></a> |
+| 4 | Tricycle | [:octocat:]( ) | <a href=""><img src="../images/pdf.svg" width="30px" height="30px"></a> | <a href=""><img src="../images/pdf.svg" width="30px" height="30px"></a> | <a href=""><img src="../images/pdf.svg" width="30px" height="30px"></a> |
+| 5 | Fantastic_Four | [:octocat:]( ) | <a href=""><img src="../images/pdf.svg" width="30px" height="30px"></a> | <a href=""><img src="../images/pdf.svg" width="30px" height="30px"></a> | <a href=""><img src="../images/pdf.svg" width="30px" height="30px"></a> |
+| 6 | SQLmates | [:octocat:]( ) | <a href=""><img src="../images/pdf.svg" width="30px" height="30px"></a> | <a href=""><img src="../images/pdf.svg" width="30px" height="30px"></a> | <a href=""><img src="../images/pdf.svg" width="30px" height="30px"></a> |
+| 7 | 405 Found | [:octocat:]( ) | <a href=""><img src="../images/pdf.svg" width="30px" height="30px"></a> | <a href=""><img src="../images/pdf.svg" width="30px" height="30px"></a> | <a href=""><img src="../images/pdf.svg" width="30px" height="30px"></a> |
+| 8 | DataTree | [:octocat:]( ) | <a href=""><img src="../images/pdf.svg" width="30px" height="30px"></a> | <a href=""><img src="../images/pdf.svg" width="30px" height="30px"></a> | <a href=""><img src="../images/pdf.svg" width="30px" height="30px"></a> |
+
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/database/issues) for any improvements, suggestions or errors in the content.
 
