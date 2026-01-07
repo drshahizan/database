@@ -45,6 +45,7 @@ Students perform logical database design, normalization, SQL implementation (DDL
 | 5 | QueryCrew | [:octocat:]( ) | <a href=""><img src="../images/pdf.svg" width="30px" height="30px"></a> | <a href=""><img src="../images/pdf.svg" width="30px" height="30px"></a> | <a href=""><img src="../images/pdf.svg" width="30px" height="30px"></a> |
 | 6 | Miracle | [:octocat:]( ) | <a href=""><img src="../images/pdf.svg" width="30px" height="30px"></a> | <a href=""><img src="../images/pdf.svg" width="30px" height="30px"></a> | <a href=""><img src="../images/pdf.svg" width="30px" height="30px"></a> |
 | 7 | Gimme5 | [:octocat:]( ) | <a href=""><img src="../images/pdf.svg" width="30px" height="30px"></a> | <a href=""><img src="../images/pdf.svg" width="30px" height="30px"></a> | <a href=""><img src="../images/pdf.svg" width="30px" height="30px"></a> |
+| 7 | Sample | [:octocat:]( ) | <a href="https://github.com/drshahizan/database/blob/main/project/group/Sample/P1_Sample.pdf"><img src="../images/pdf.svg" width="30px" height="30px"></a> | <a href=""><img src="../images/pdf.svg" width="30px" height="30px"></a> | <a href=""><img src="../images/pdf.svg" width="30px" height="30px"></a> |
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/database/issues) for any improvements, suggestions or errors in the content.
