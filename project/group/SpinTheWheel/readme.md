@@ -10,7 +10,10 @@
 ---
 
 ## 🎡 Team SpinTheWheel
+### Group Picture
+![WhatsApp Image 2026-02-03 at 16 27 57](https://github.com/user-attachments/assets/d816b83b-deef-4a33-aa20-603057cd228c)
 
+### Members
 | Name | Matric ID | Role |
 | :--- | :--- | :--- |
 | **Chun Yao Ting** | A24CS0239 | Team Leader |
