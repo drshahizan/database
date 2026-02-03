@@ -3,7 +3,9 @@
 
 
 <!-- Replace the line below with your own banner image URL -->
-![Banner](https://via.placeholder.com/900x200/0d1117/58a6ff?text=🚗+Hasta+Vehicle+Rental+Booking+System)
+<img src="https://github.com/drshahizan/database/raw/1b6a01bf600c7f214d18bfbab8838f961ccf59ad/project/group/404NotFound/hastalogo.png" 
+     alt="Banner" 
+     width="400"/>
 
 <h1>🚗 Hasta Vehicle Rental Booking System</h1>
 
@@ -11,7 +13,7 @@
 
 📘 **Course** : SECP2523 DATABASE &nbsp; | &nbsp; 📅 **Session** : SEM I 2025/2026 &nbsp; | &nbsp; 🔢 **Section** : 02
 
-👨‍🏫 **Lecturer** : PM Dr Mohd Shahizan Othman &nbsp; | &nbsp; 🏢 **Stakeholder** : Hasta Travel & Tours Sdn. Bhd.
+👨‍🏫 **Lecturer** : Prof. Madya. Ts. Dr. Mohd Shahizan bin Othman &nbsp; | &nbsp; 🏢 **Stakeholder** : Hasta Travel & Tours Sdn. Bhd.
 
 <br/>
 
@@ -24,7 +26,7 @@
 
 <br/><br/>
 
-🗃️ **11 Normalized Tables** &nbsp; | &nbsp; 📐 **BCNF** &nbsp; | &nbsp; 📦 **5 Modules** &nbsp; | &nbsp; ✅ **16 Use Cases**
+🗃️ **11 Normalized Tables** &nbsp; | &nbsp; 📦 **5 Modules** &nbsp; | &nbsp; ✅ **16 Use Cases**
 
 </div>
 
@@ -33,11 +35,9 @@
 ## 👥 Team 404NotFound
 
 <div align="center">
-
-<!-- ░░░░░░░░░░░░░░░░░░░░░  GROUP PHOTO  ░░░░░░░░░░░░░░░░░░░░░ -->
-
-<!-- Replace the image below with your actual group photo URL -->
-![Group Photo](https://via.placeholder.com/600x250/0d1117/58a6ff?text=📸+Insert+Group+Photo+Here)
+<img src="https://github.com/drshahizan/database/raw/1b6a01bf600c7f214d18bfbab8838f961ccf59ad/project/group/404NotFound/404NotFound%20Picture.jpeg" 
+     alt="Group Photo" 
+     width="700"/>
 
 </div>
 
