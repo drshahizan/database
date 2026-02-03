@@ -37,6 +37,7 @@
 ## ⚡ The DaTeam Avengers
 <div align="center">
 <p><i>"A high-performance task force engineered for digital transformation."</i></p>
+<img width="540" height="450" alt="image" src="https://github.com/user-attachments/assets/9255e57f-8876-4ee7-9f3a-c2e2f06e794f" />
 
 | <img src="https://github.com/adamashraffzamri.png" width="120px;" style="border-radius:50%; border:3px solid #FF1010;"/><br/>**MUHAMMD ADAM ASHRAFF BIN ZAMRI**<br/>A24CS0119<br/>🚀 <i>Project Leader</i> | <img src="https://github.com/MikaelHaqimi.png" width="120px;" style="border-radius:50%; border:3px solid #FF1010;"/><br/>**MIKAEL HAQIMI BIN NAHAR JUNAIDI<br/>A24CS0111**<br/>🔍 <i>System Analyst | <img src="https://github.com/wildanmazani.png" width="120px;" style="border-radius:50%; border:3px solid #FF1010;"/><br/>**AHMAD WILDAN BIN MAZANI**<br/>A24CS0222<br/>🏗️ <i>DB Architect | <img src="https://github.com/JoshuaLing0612.png" width="120px;" style="border-radius:50%; border:3px solid #FF1010;"/><br/>**JOSHUA LING SHANG YANG**<br/>A24CS0089<br/>🧪 <i>QA & Docs |
 | :---: | :---: | :---: | :---: |
