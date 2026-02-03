@@ -31,7 +31,7 @@
 **The Problem (As-Is):**
 Hasta Travel & Tours currently relies on a fragmented manual system involving **WhatsApp**, **physical whiteboards**, and **Excel spreadsheets**. This leads to:
 * ⏳ **Slow Confirmations:** Manual availability checks cause booking delays 
-* 📉 **Data Redundancy:** Staff must re-enter data across multiple platforms (Driveo, Excel, Wahdah)
+* 📉 **Data Redundancy:** Staff must re-enter data across multiple platforms (Driveo, Excel)
 * ❌ **Human Error:** Manual calculation of fines, late fees, and fuel shortages is prone to mistakes 
 * 🚫 **Disconnected Blacklists:** No real-time verification of blacklisted users during the booking conversation 
 
