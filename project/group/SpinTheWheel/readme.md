@@ -31,7 +31,7 @@ The goal was to transition the company from a manual, fragmented workflow (Whats
 
 ---
 
-## 🔹 [Phase 1 – Project Proposal]() 
+## 🔹 [Phase 1 – Project Proposal](https://github.com/drshahizan/database/blob/main/project/group/SpinTheWheel/SECP2523-02%20Database%20P1%20(SpinTheWheel).pdf) 
 
 > **Phase 1** focuses on identifying the problems in the current manual system and proposing a digital solution.
 
@@ -60,7 +60,7 @@ A **Centralized Relational Database System** to:
 
 ---
 
-## 🔹 [Phase 2 – Database Conceptual Design]()  
+## 🔹 [Phase 2 – Database Conceptual Design](https://github.com/drshahizan/database/blob/main/project/group/SpinTheWheel/SECP2523-02%20Database%20P2%20(SpinTheWheel).pdf)  
 
 > **Phase 2** translates the requirements into a structured conceptual data model.
 
@@ -77,7 +77,7 @@ A **Centralized Relational Database System** to:
 
 ---
 
-## 🔹 [Phase 3 – Database Reporting & Implementation]()
+## 🔹 [Phase 3 – Database Reporting & Implementation](https://github.com/drshahizan/database/blob/main/project/group/SpinTheWheel/SECP2523-02%20Database%20P3%20(SpinTheWheel).pdf)
 
 > **Phase 3** involves the final logical design, normalization, and SQL implementation.
 
