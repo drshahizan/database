@@ -35,7 +35,7 @@
 ### 📍 [MILESTONE 01] : SYSTEM PROPOSAL
 **Objective:** *Deconstructing the "As-Is" manual flow to architect a digital "To-Be" solution.*
 
-📂 **Access Document:** [DataATE_P1_Proposal.pdf](./DataATE_P1_Proposal.pdf)
+📂 **Access Document:** [DataATE_P1_Proposal.pdf](https://github.com/drshahizan/database/blob/1586031729468a3e136abc6f00912cd56ebc55ea/project/group/DataATE/DataATE_P1_Proposal.pdf)
 
 **THE CHALLENGE**
 * **Booking Delays:** WhatsApp dependency creates response lag and communication gaps.
@@ -54,7 +54,7 @@
 ### 📐 [MILESTONE 02] : CONCEPTUAL ARCHITECTURE
 **Objective:** *Translating business requirements into high-fidelity technical blueprints.*
 
-📂 **Access Document:** [DataATE_P2_ConceptualDesignReport.pdf](./DataATE_P2_ConceptualDesignReport.pdf)
+📂 **Access Document:** [DataATE_P2_ConceptualDesignReport.pdf](https://github.com/drshahizan/database/blob/1586031729468a3e136abc6f00912cd56ebc55ea/project/group/DataATE/DataATE_P2_ConceptualDesignReport.pdf)
 
 
 
@@ -77,7 +77,7 @@
 ### 💻 [MILESTONE 03] : IMPLEMENTATION & REPORTING
 **Objective:** *Logical design normalization, relational mapping, and full SQL deployment.*
 
-📂 **Access Document:** [DataATE_P3_LogicalDesignReport.pdf](./DataATE_P3_LogicalDesignReport.pdf)
+📂 **Access Document:** [DataATE_P3_LogicalDesignReport.pdf](https://github.com/drshahizan/database/blob/1586031729468a3e136abc6f00912cd56ebc55ea/project/group/DataATE/DataATE_P3_LogicalDesignReport.pdf)
 
 
 
