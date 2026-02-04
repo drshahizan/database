@@ -9,6 +9,7 @@
 ---
 
 ## 👥 Team QueryCrew
+![WhatsApp Image 2026-02-03 at 16 12 16](https://github.com/user-attachments/assets/6a860e28-9f79-4184-9f0b-5439d4653d02)
 
 ### Group Members
 | No. | Name | Matric Number | Role |
